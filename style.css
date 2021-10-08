@@ -26,3 +26,13 @@ body{
 .div_volume{
     float: right;
 }
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    margin-top: 50px;
+}
+.play_button{
+    width: 130px;
+    font-size: 25px;
+    bottom: 100px;
+}
